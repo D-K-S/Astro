@@ -1,0 +1,468 @@
+FORMAT:
+NAME:
+There is data for $Starting_number_of_stars, $Stars_left_after_filtering are left ($filter_threshold)
+METHOD_Name:
+$Cluster_size ($cluster_label) @ $RA and $Dec (If open cluster desc. is given)
+
+
+M6: (MATCH+)
+There are 1 234 871 stars, 59 718 are left (.2)
+DBScan: 
+epsilon = 0.136
+Cluster number: 88 
+There are 16 clusters with 50 or more stars
+632(0) 	 @ Ra: 17h 44m, Dec: -33° -11'
+312(1) 	 @ Ra: 17h 44m, Dec: -33° -8'
+52(4) 	 @ Ra: 17h 34m, Dec: -31° -14'
+67(5) 	 @ Ra: 17h 35m, Dec: -31° -3'
+439(6) 	 @ Ra: 17h 41m, Dec: -30° -50'
+62(10) 	 @ Ra: 17h 36m, Dec: -30° -52'
+496(11)  @ Ra: 17h 40m, Dec: -33° -29'
+2030(12) @ Ra: 17h 36m, Dec: -33° -10'
+71(14) 	 @ Ra: 17h 41m, Dec: -33° -44'
+64(16) 	 @ Ra: 17h 39m, Dec: -31° -28'
+340(22)  @ Ra: 17h 44m, Dec: -32° -20' (NGC 6416,MAIN sequence)
+142(38)  @ Ra: 17h 46m, Dec: -31° -32' (NGC 6425,MAIN sequence)
+73(40) 	 @ Ra: 17h 38m, Dec: -33° -37'
+333(52)  @ Ra: 17h 40m, Dec: -32° -13' (M6, main sequence)
+212(60)  @ Ra: 17h 34m, Dec: -32° -33'
+65(71) 	 @ Ra: 17h 32m, Dec: -31° -57'
+
+wiki:  	Right ascension	 17h 40.1m
+	Declination	−32° 13′
+	# = 120 
+
+M7:(Match)
+There is data for 3M+ stars, 164 078 are left (.1)
+DBScan: 
+epsilon= .050
+Cluster number: 310
+Cluster number with more than 50 stars is 30 	
+128(2)    @ Ra: 17h 49m, Dec: -29° -27'
+51(9)     @ Ra: 17h 47m, Dec: -29° -33'
+61(11)    @ Ra: 17h 53m, Dec: -29° -22'
+156(28)   @ Ra: 17h 44m, Dec: -34° -51'
+59(33)    @ Ra: 17h 47m, Dec: -33° -39'
+94(34)    @ Ra: 17h 45m, Dec: -33° -25'
+100(57)   @ Ra: 17h 35m, Dec: -33° -18'
+56(71)    @ Ra: 17h 53m, Dec: -30° -29'
+55(77)    @ Ra: 17h 48m, Dec: -35° -8'
+54(84)    @ Ra: 17h 46m, Dec: -33° -49'
+68(86)    @ Ra: 17h 58m, Dec: -30° -15'
+246(87)   @ Ra: 17h 44m, Dec: -32° -21' (NGC 6416 Main sequence)
+56(92)    @ Ra: 17h 55m, Dec: -31° -32'
+121(97)   @ Ra: 17h 42m, Dec: -30° -44'
+110(101)  @ Ra: 17h 49m, Dec: -34° -46' 
+89(103)   @ Ra: 17h 50m, Dec: -29° -44'
+136(104)  @ Ra: 17h 50m, Dec: -29° -47'
+70(140)   @ Ra: 17h 54m, Dec: -32° -31'
+133(143)  @ Ra: 17h 51m, Dec: -30° -19'
+121(153)  @ Ra: 17h 48m, Dec: -30° -48'
+139(156)  @ Ra: 17h 46m, Dec: -31° -31' (NGC 6425, main sequence)
+200(167)  @ Ra: 17h 56m, Dec: -35° -22' 
+154(170)  @ Ra: 17h 51m, Dec: -30° -17'
+61(195)   @ Ra: 17h 54m, Dec: -31° -9'
+226(217)  @ Ra: 17h 40m, Dec: -32° -14' (M6, main sequence)
+70(223)   @ Ra: 17h 53m, Dec: -34° -46' (M7, main sequence)
+56(244)   @ Ra: 18h 1m, Dec: -29° -46'
+64(251)   @ Ra: 17h 56m, Dec: -31° -9'
+50(257)   @ Ra: 18h 9m, Dec: -31° -20'
+58(273)   @ Ra: 17h 36m, Dec: -32° -29'
+
+
+wiki:	Right ascension	 17h 53m 51.2s[1]
+	Declination	–34° 47′ 34″[1]
+	# = 80 
+
+M11: (MATCH) 
+There are 1310427 stars , 40283 are left (.2)
+DBScan:
+epsilon = 0.132
+Cluster number: 85 
+There are 7 clusters with 50 or more stars
+1821(5)  @ Ra: 18h 50m, Dec: -6° -16' (M11, main sequence)
+323(26)  @ Ra: 18h 48m, Dec: -6° -31' 
+54(43) 	 @ Ra: 18h 49m, Dec: -6° -38'
+52(49) 	 @ Ra: 18h 48m, Dec: -6° -18'
+80(66) 	 @ Ra: 18h 50m, Dec: -6° -24'
+62(67) 	 @ Ra: 18h 48m, Dec: -6° -4'
+50(72) 	 @ Ra: 18h 48m, Dec: -5° -59'
+Wiki: 	Right ascension	 18h 51m 05.0s[1]
+	Declination	−06° 16′ 12″[1]
+	# = 870+ 
+
+
+M16: (NO Match)
+There are 22888 stars , 2084 are left (.1)
+DBScan:
+epsilon = 0.298
+Cluster number: 12 
+There are 1 clusters with 50 or more stars
+123(6) 	 @ Ra: 18h 17m, Dec: -13° -57'
+Wiki: 	Right ascension	 18h 18m 48s[1]
+	Declination	−13° 49′[1]
+	# = 8100
+
+
+M18: (Match+)
+There are 137020 stars, 9620 are left (.2)
+DBScan:
+epsilon = 0.220
+Cluster number: 18 
+There are 3 clusters with 50 or more stars
+743(0) 	 @ Ra: 18h 20m, Dec: -17° -28' 
+52(4) 	 @ Ra: 18h 22m, Dec: -17° -10' 
+69(10) 	 @ Ra: 18h 19m, Dec: -17° -5' (M18,main sequence)
+Wiki: 	Right ascension	 18h 19m 58.0s[2]
+	Declination	–17° 06′ 06″[2]
+	# = Seems to be a small cluster 
+
+M21: (MATCH)
+There are 283332 stars, 16 420 are left (.2)
+DBScan:
+epsilon = 0.140
+Cluster number: 17 
+There are 3 clusters with 50 or more stars
+69(4) 	 @ Ra: 18h 3m, Dec: -22° -39' 
+129(8) 	 @ Ra: 18h 5m, Dec: -22° -51'
+106(12)  @ Ra: 18h 4m, Dec: -22° -30' (M21,main sequence)
+Wiki: 	Right ascension	 18h 04m 13.0s[1]
+	Declination	−22° 29′ 24″[1]
+	# = 105+
+
+M23: (MATCH )
+There is data for 3M+ stars, 72297 are left (.2)
+DBScan:
+epsilon = 0.096
+Cluster number: 37 
+There are 2 clusters with 50 or more stars
+Cluster #:21	epsilon= .142
+108(1) 	 @ Ra: 17h 56m, Dec: -18° -59' (M23,main sequence)
+107(4) 	 @ Ra: 17h 57m, Dec: -20° -37'
+
+Wiki: 	Right ascension	 17h 57m 04s[1]
+	Declination	−18° 59′ 06″
+	# = 169-414
+
+
+M25: (MATCH+)
+There is data for 2582330 stars, 282 111 are left (.2)
+DBScan:
+epsilon = 0.089
+Cluster number: 387 
+There are 26 clusters with 50 or more stars
+69(7) 	 @ Ra: 18h 32m, Dec: -17° -37'
+323(9) 	 @ Ra: 18h 33m, Dec: -17° -21' 
+140(21)  @ Ra: 18h 27m, Dec: -17° -53'
+297(26)  @ Ra: 18h 25m, Dec: -17° -39'
+611(31)  @6Ra: 18h 32m, Dec: -16° -58' (NGC6647,MAIN SEQUENCE) 
+84(46) 	 @ Ra: 18h 41m, Dec: -19° -40' 
+167(48)  @ Ra: 18h 33m, Dec: -16° -47'
+492(67)  @ Ra: 18h 29m, Dec: -16° -55' 
+52(89) 	 @ Ra: 18h 31m, Dec: -17° -19'
+51(91) 	 @ Ra: 18h 28m, Dec: -17° -1'
+202(104) @ Ra: 18h 31m, Dec: -17° -2'
+58(146)  @ Ra: 18h 30m, Dec: -18° -10'
+441(166) @ Ra: 18h 31m, Dec: -19° -6' (M25,MAIN SEQUENCE)
+73(171)  @ Ra: 18h 26m, Dec: -18° -7'
+89(192)  @ Ra: 18h 23m, Dec: -18° -6'
+51(211)  @ Ra: 18h 30m, Dec: -16° -42'
+56(220)  @ Ra: 18h 29m, Dec: -18° -26'
+103(256) @ Ra: 18h 37m, Dec: -19° -10'
+69(259)  @ Ra: 18h 36m, Dec: -17° -9'
+71(268)  @ Ra: 18h 29m, Dec: -19° -8'
+84(284)  @ Ra: 18h 24m, Dec: -19° -43'
+64(294)  @ Ra: 18h 23m, Dec: -19° -55'
+92(321)  @ Ra: 18h 23m, Dec: -17° -38'
+80(332)  @ Ra: 18h 26m, Dec: -18° -49'
+85(348)  @ Ra: 18h 25m, Dec: -18° -59'
+61(369)  @ Ra: 18h 28m, Dec: -19° -28'
+Wiki: 	Right ascension	 18h 31m 47.0s[1]
+	eclination	−19° 07′ 00″[1]
+	# = \
+
+M26: (NO MATCH )
+There are 1254510 stars , 37 260 are left (.2)
+DBScan:
+epsilon = 0.147
+Cluster number: 98 
+There are 14 clusters with 50 or more stars
+175(0) 	 @ Ra: 18h 43m, Dec: -8° -38'
+58(4) 	 @ Ra: 18h 47m, Dec: -9° -49'
+76(5) 	 @ Ra: 18h 46m, Dec: -9° -55'
+140(6) 	 @ Ra: 18h 47m, Dec: -10° -4' 
+290(9) 	 @ Ra: 18h 45m, Dec: -9° -45'
+108(16)  @ Ra: 18h 46m, Dec: -8° -47'
+63(22) 	 @ Ra: 18h 42m, Dec: -10° -1'
+66(29) 	 @ Ra: 18h 48m, Dec: -8° -57'
+199(31)  @ Ra: 18h 46m, Dec: -8° -40'
+525(40)  @ Ra: 18h 44m, Dec: -9° -16 
+50(48) 	 @ Ra: 18h 46m, Dec: -8° -32'
+68(58) 	 @ Ra: 18h 42m, Dec: -9° -11'
+52(69) 	 @ Ra: 18h 42m, Dec: -9° -49'
+Wiki: 	Right ascension	 18h 45m 18.0s[1]
+	Declination	−09° 23′ 00″[1]
+	# = \
+
+M29:(NO MATCH )
+There are 39247 stars , 2 739 are left (.1)
+DBScan:
+epsilon = 0.193
+Cluster number: 8 
+There are 1 clusters with 50 or more stars
+66(0) 	 @ Ra: 20h 23m, Dec: 38° 29'
+Wiki: 	Right ascension	 20h 23m 56s[1]
+	Declination	+38° 31′ 24″[1]
+	# = 50
+
+
+M34: (MATCH + )
+There are 249883 stars , 17 622 are left (.1)
+DBScan:
+epsilon = 0.164
+Cluster number: 15 
+There are 5 clusters with 50 or more stars
+91(0) 	 @ Ra: 2h 42m, Dec: 42° 42' (M34,main sequence) 
+65(2) 	 @ Ra: 2h 40m, Dec: 44° 42' 
+82(3) 	 @ Ra: 2h 45m, Dec: 44° 30' 
+59(9) 	 @ Ra: 2h 51m, Dec: 43° 52' 
+114(12)  @ Ra:   (,main sequence)
+Wiki: 	Right ascension	 02h 42.1m[2]
+	Declination	+42° 46′[2]
+	# = 400
+
+
+M35: (MATCH+)
+There are 358844 stars, 18 446 are left (.1)
+DBScan:
+epsilon = 0.170
+Cluster number: 50 
+There are 9 clusters with 50 or more stars
+1284(0)  @ Ra: 6h 9m, Dec: 24° 18' (M35,main sequence)
+52(1) 	 @ Ra: 6h 6m, Dec: 23° 18' 
+113(6) 	 @ Ra: 6h 9m, Dec: 23° 57' 
+152(12)  @ Ra: 6h 3m, Dec: 24° 9'  (I2156,main sequence)
+51(15) 	 @ Ra: 6h 6m, Dec: 24° 41' 
+222(25)  @ Ra: 6h 4m, Dec: 25° 22' 
+82(36) 	 @ Ra: 6h 8m, Dec: 25° 39' 
+72(41) 	 @ Ra: 6h 2m, Dec: 23° 13' 
+57(43) 	 @ Ra: 6h 12m, Dec: 23° 6' 
+
+Wiki: 	Right ascension	 06h 08m 54.0s[1]
+	Declination	+24° 20′ 00″[1]
+	# = 418
+
+M36: (match)
+There are 70297 stars, 3 414 are left (.1)
+DBScan:
+epsilon = 0.242
+Cluster number: 18 
+There are 2 clusters with 50 or more stars
+96(0) 	 @ Ra: 5h 37m, Dec: 33° 34' (M36, main sequence)
+106(10)  @ Ra: 5h 33m, Dec: 34° 15' (NGC 1931, Main sequence) 
+Wiki: 	Right ascension	 05h 36m 18.0s[1]
+	Declination	+34° 08′ 24″[1]
+	# = 178+
+
+M37: (MATCH)
+There are 311937 stars, 14 305 are left (.1)
+DBScan:
+epsilon = 0.174
+Cluster number: 30 
+There are 1 clusters with 50 or more stars
+1255(11) 	 @ Ra: 5h 52m, Dec: 32° 33' (M37,main sequence) 
+Wiki: 	Right ascension	 5h 52m 18s[1]
+	Declination	+32° 33′ 02″[1]
+	# = 500+
+
+
+M38: (MATCH) 
+There are 200123 stars , 10 614 are left (.1)
+DBScan:
+epsilon = 0.176
+Cluster number: 10 
+There are 2 clusters with 50 or more stars
+853(0) 	 @ Ra: 5h 28m, Dec: 35° 46' (M38, main sequence)
+50(8) 	 @ Ra: 5h 31m, Dec: 35° 9' 
+Wiki: 	Right ascension	 05h 28m 43s[1]
+	Declination	+35° 51′ 18″[1]
+	# = 100
+
+M39: (NO MATCH)
+There are 1609484 stars, 78 624 are left (.1)
+DBScan:
+epsilon = 0.104
+Cluster number: 60 
+There are 3 clusters with 50 or more stars
+59(2) 	 @ Ra: 21h 29m, Dec: 48° 54'
+81(25) 	 @ Ra: 21h 27m, Dec: 49° 7'
+107(40)  @ Ra: 21h 27m, Dec: 49° 42'
+
+Wiki: 	Right ascension	 21h 31m 48.0s[1]
+	Declination	+48° 26′ 00″[1]
+	# = \
+
+M41: (MATCH+)
+There are 766509 stars, 49136 are left (.1)
+DBScan:
+epsilon = 0.140
+Cluster number: 56 
+There are 5 clusters with 50 or more stars
+50(14) 	 @ Ra: 6h 48m, Dec: -22° -28' 
+510(19)  @ Ra: 6h 45m, Dec: -20° -41' (M41,main sequence)
+91(32) 	 @ Ra: 6h 54m, Dec: -22° -12' 
+109(38)  @ Ra: 6h 54m, Dec: -21° -46' 
+50(50) 	 @ Ra: 6h 55m, Dec: -21° -23'
+Wiki: 	Right ascension	 06h 46.0m[1]
+	Declination	−20° 46′[1]
+	# = 100
+
+M44:(MATCH+) (unknown main sequence)
+There are 570509 stars , 87 201 are left (.1)
+DBScan:
+epsilon = 0.123
+Cluster number: 116 
+There are 6 clusters with 50 or more stars
+1331(9)  @ Ra: 8h 22m, Dec: 18° 4'  
+72(11) 	 @ Ra: 8h 25m, Dec: 21° 39' 
+116(15)  @ Ra: 8h 20m, Dec: 22° 52' 
+53(37) 	 @ Ra: 8h 22m, Dec: 15° 34' 
+653(70)  @ Ra: 8h 40m, Dec: 19° 36' (M44,main sequence)
+59(110)  @ Ra: 8h 42m, Dec: 14° 22'
+Wiki: 	Right ascension	08h 40.4m
+	Declination	19° 59′
+	# = many
+
+M45: (MATCH+) (unknown main sequence)
+There are 1249619 stars , 124 536 (.1)
+DBScan:
+epsilon = 0.108
+Cluster number: 115 
+There are 5 clusters with 50 or more stars
+154(7) 	 @ Ra: 4h 1m, Dec: 30° 14' 
+549(25)  @ Ra: 3h 46m, Dec: 24° 5' (M45,main sequence)
+768(28)  @ Ra: 4h 9m, Dec: 27° 8'  
+83(35) 	 @ Ra: 4h 4m, Dec: 28° 37' 
+52(50) 	 @ Ra: 4h 14m, Dec: 27° 8'
+Wiki: 	Right ascension	 03h 47m 24s[1]
+	Declination	+24° 07′ 00″[1]
+	# = \ 
+
+M46: (MATCH+)
+There are 573325 stars 31233 are left (.1)
+DBScan:
+epsilon = 0.153
+Cluster number: 60 
+There are 8 clusters with 50 or more stars
+70(0) 	 @ Ra: 7h 46m, Dec: -15° -42' 
+228(8) 	 @ Ra: 7h 37m, Dec: -13° -54' (NGC 2423,MAIN SEQUENCE)
+85(17) 	 @ Ra: 7h 42m, Dec: -16° -1'  
+60(21) 	 @ Ra: 7h 35m, Dec: -15° -23'
+102(23)  @ Ra: 7h 39m, Dec: -16° -21' (NGC 2430,MAIN SEQUENCE)
+76(27) 	 @ Ra: 7h 37m, Dec: -15° -39'
+277(30)  @ Ra: 7h 36m, Dec: -14° -31' (M47,MAIN SEQUENCE)
+457(34)  @ Ra: 7h 41m, Dec: -14° -50' (M46,main sequence)
+Wiki: 	Right ascension	 07h 41m 46.0s[1]
+	Declination	−14° 48′ 36″[1]
+	# = \ 
+
+M47: (MATCH+)
+There is data for 751630, 38884 are left (.1)
+DBScan:
+epsilon = 0.132
+Cluster number: 46 
+There are 8 clusters with 50 or more stars
+217(3) 	 @ Ra: 7h 37m, Dec: -13° -53' (NGC 2423,MAIN SEQUENCE)
+90(4) 	 @ Ra: 7h 31m, Dec: -14° -21'
+95(11) 	 @ Ra: 7h 32m, Dec: -16° -3'
+61(12) 	 @ Ra: 7h 37m, Dec: -15° -39'
+64(14) 	 @ Ra: 7h 33m, Dec: -15° -30'
+257(15)  @ Ra: 7h 36m, Dec: -14° -30' (M47,main sequence)
+78(18) 	 @ Ra: 7h 35m, Dec: -15° -53'
+318(22)  @ Ra: 7h 41m, Dec: -14° -52' (M46,main sequence)
+Wiki: 	Right ascension	 07h 36.6m[1]
+	Declination	−14° 30′[1]
+	# = 500
+
+
+M48: (MATCH)
+There is data for 631882, 59620 are left (.1)
+DBScan:
+epsilon = 0.122
+Cluster number: 22 
+There are 2 clusters with 50 or more stars
+316(0) 	 @ Ra: 8h 13m, Dec: -5° -42' (M48,main sequence)
+51(5) 	 @ Ra: 8h 1m, Dec: -6° -31'  
+Wiki:  	Right ascension	 08h 13m 43.0s[1]
+	Declination	−05° 45′ 00″[1]
+	# = 438+ 
+
+
+M50: (MATCH)
+There is data for 174729 stars, 77550 are left (.1)
+DBScan:
+epsilon = 0.198
+Cluster number: 15 
+There are 2 clusters with 50 or more stars
+162(4) 	 @ Ra: 7h 3m, Dec: -8° -22' (M50,main sequence)
+70(6) 	 @ Ra: 7h 2m, Dec: -7° -47' 
+Wiki: 	Right ascension	 07h 02m 47.5s[1]
+	Declination	−08° 20′ 16″[1]
+	# = 508+
+
+M52: (MATCH)
+There is data for 187813 stars, 9 339 are left (.1)
+DBScan:
+epsilon = 0.199
+Cluster number: 19 
+There are 2 clusters with 50 or more stars
+115(0) 	 @ Ra: 23h 22m, Dec: 61° 58' 
+1308(1)  @ Ra: 23h 24m, Dec: 61° 26' (M52,main seqeunce)
+
+Wiki: 	Right ascension	 23h 24m 48.0s[1]
+	Declination	+61° 35′ 36″[1]
+	# = \
+
+M67: (MATCH)
+There is data for 60045 stars, 10 099 are left (.1)
+DBScan:
+epsilon = 0.222
+Cluster number: 19 
+There are 1 clusters with 50 or more stars
+1085(7) 	 @ Ra: 8h 51m, Dec: 11° 49' (M67,main sequence)
+Wiki: 	Right ascension	08h 51.3m
+	Declination	+11° 49′
+	# = 500+
+
+M93: (MATCH+ )
+There is data for 568882 stars, 32 061 are left (.1)
+DBScan:
+epsilon = 0.137
+Cluster number: 47 
+There are 3 clusters with 50 or more stars
+588(0) 	 @ Ra: 7h 44m, Dec: -23° -51' (M93,main sequence)
+90(16) 	 @ Ra: 7h 41m, Dec: -24° -20' 
+95(40) 	 @ Ra: 7h 44m, Dec: -24° -54' (NGC 2448,main sequence)
+
+Wiki: 	Right ascension	 07h 44m 30.0s[1]
+	Declination	−23° 51′ 24″[1]
+	# = 54+
+
+
+M103: (MATCH)
+There is data for 40968 stars, 1 887 are left (.1)
+DBScan:
+epsilon = 0.243
+Cluster number: 1 
+There are 1 clusters with 50 or more stars
+136(0) 	 @ Ra: 1h 33m, Dec: 60° 40' (M103,main seqeunce)
+Wiki: 	Right ascension	 01h 33.2m
+	Declination	+60° 42′
+	# =  172 
+
+
+
+
+
+
+
